@@ -1,0 +1,14 @@
+{
+    "keys": [
+        {
+            "kty": "EC",
+            "x": "pTxdAEzZb4hWc8u5ULEBg6ie-DBx5G4O4rtSaakl-zc",
+            "y": "Uzg1aOoRKNxbTAPoYM0SAm5GMVp741IJXNek9gqHgrA",
+            "crv": "P-256",
+            "kid": "5036a59a-2bf7-463c-960b-a407f39c69fa",
+            "x5c": [
+                "MIIBpTCCAUygAwIBAgIUV8lf0A3IFWX04h/bc5cFa0t+5W4wCgYIKoZIzj0EAwIwSjELMAkGA1UEBhMCSlAxETAPBgNVBAgMCEthbmFnYXdhMREwDwYDVQQHDAhLYXdhc2FraTEVMBMGA1UEAwwMVGFhUy1mdWppdHN1MB4XDTIyMTEwOTAyMDQyMFoXDTMyMTEwNjAyMDQyMFowSjELMAkGA1UEBhMCSlAxETAPBgNVBAgMCEthbmFnYXdhMREwDwYDVQQHDAhLYXdhc2FraTEVMBMGA1UEAwwMVGFhUy1mdWppdHN1MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpTxdAEzZb4hWc8u5ULEBg6ie+DBx5G4O4rtSaakl+zdTODVo6hEo3FtMA+hgzRICbkYxWnvjUglc16T2CoeCsKMQMA4wDAYDVR0TBAUwAwEB/zAKBggqhkjOPQQDAgNHADBEAiBROluNBD00vfRSIp7XtZlcVCGedClMxvqYtLXa5fAVRQIgfF6UfA1EUxztrNLjvL+kzMRYexJlRaqzTChU7xweMqI="
+            ]
+        }
+    ]
+}
